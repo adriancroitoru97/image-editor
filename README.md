@@ -1,6 +1,4 @@
-# Adrian-Valeriu Croitoru, 312CA
-
-## PROGRAMAREA CALCULATOARELOR - Tema #3 - image_editor
+# Image editor in C
 
 *Imaginile P2 si P5 sunt stocate pixel cu pixel intr-o matrice alocata dinamic,
 iar cele P3 si P6 sunt stocate in 3 matrice, corespunzand pixelilor R, G si B.
@@ -51,3 +49,6 @@ instructiuni.
 ### EXIT
 	*Se opreste citirea de operatii de la tastatura, se elibereaza memoria
 	si se inchide programul.
+	
+## License
+[Adrian-Valeriu Croitoru](https://github.com/adriancroitoru97)
